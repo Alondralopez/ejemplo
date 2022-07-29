@@ -1,1 +1,3 @@
 "GATOS"
+if localStorage
+createImageBitmap

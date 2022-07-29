@@ -1,2 +1,9 @@
-# ejemplo
-este sera para empezar a utilizar los comandos uwu
+COMANDOS GIT
+GIT INIT
+GIT CLONE
+GIT ADD
+GIT STATUS
+GIT COMMIT
+GIT LOG
+GIT PULL
+GIT PUSH
